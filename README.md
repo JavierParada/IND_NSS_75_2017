@@ -25,6 +25,8 @@ The National Sample Survey (NSS), set up by the Government of India in 1950 to c
 
 NSS 75th round will cover the subjects ‘Household Consumer Expenditure’, ‘Household Social Consumption: Health’ and ‘Household Social Consumption: Education’. The last surveys on Household Consumer Expenditure was conducted in 68th round of NSS (July 2011 - June 2012) and Health and Education were conducted in 71st round of NSS (January – June 2014).
 
+KI: Key indicator
+MPCE: monthly per capita consumption expenditure
 
 ## SCHEDULE 25.2: HOUSEHOLD SOCIAL CONSUMPTION: EDUCATION
 
