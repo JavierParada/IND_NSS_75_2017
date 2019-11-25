@@ -28,6 +28,19 @@ NSS 75th round will cover the subjects ‘Household Consumer Expenditure’, ‘
 KI: Key indicator
 MPCE: monthly per capita consumption expenditure
 
+## Stratification
+
+Each district will be a stratum. Within each district of a State/UT, generally speaking, two basic strata will be formed: 
+
+(i) rural stratum comprising of all rural areas of the district and 
+
+(ii) urban stratum comprising of all the urban areas of the district. 
+
+However, within the urban areas of a district, if there are one or more towns with population one million or more as per Census 2011, each of them will form a separate basic stratum and the remaining urban areas of the district will be considered as another basic stratum. 
+
+(b) In the case of rural sectors of Nagaland another special stratum will be formed within the
+State consisting of all the villages which are difficult to access.
+
 ## SCHEDULE 25.2: HOUSEHOLD SOCIAL CONSUMPTION: EDUCATION
 
 ### Geographical coverage
