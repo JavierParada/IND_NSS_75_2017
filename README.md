@@ -41,6 +41,11 @@ However, within the urban areas of a district, if there are one or more towns wi
 (b) In the case of rural sectors of Nagaland another special stratum will be formed within the
 State consisting of all the villages which are difficult to access.
 
+## Schedule 1.0: Consumer Expenditure
+
+The National Statistical Commission (NSC) decided that the 75th Round would be devoted to the subject of Household Consumer Expenditure (HCE) along with surveys on Social Consumption. It was also decided that the schedule of enquiry of this HCE survey will be along the line of Schedule 1.0 Type 2 in NSS 68th Round, i.e., with Modified Mixed Reference Period (MMRP).
+
+
 ## SCHEDULE 25.2: HOUSEHOLD SOCIAL CONSUMPTION: EDUCATION
 
 ### Geographical coverage
