@@ -45,6 +45,12 @@ State consisting of all the villages which are difficult to access.
 
 The National Statistical Commission (NSC) decided that the 75th Round would be devoted to the subject of Household Consumer Expenditure (HCE) along with surveys on Social Consumption. It was also decided that the schedule of enquiry of this HCE survey will be along the line of Schedule 1.0 Type 2 in NSS 68th Round, i.e., with Modified Mixed Reference Period (MMRP).
 
+| ﻿Category 	| Item groups                                                                                                                                	| Reference period 	|
+|----------	|--------------------------------------------------------------------------------------------------------------------------------------------	|------------------	|
+| I        	| Clothing, bedding, footwear, education, medical (institutional), durable goods                                                             	| Last 365 days    	|
+| II       	| Some food items (F2+): Edible oil; egg, fish & meat; vegetables, fruits, spices, beverages and processed foods; pan, tobacco & intoxicants 	| Last 7 days      	|
+| III      	| All other food (F1), fuel and light, miscellaneous goods and services including non-institutional medical; rents and taxes                 	| Last 30 days     	|
+
 
 ## Schedule 25.2: Household Social Consumption: Education
 
