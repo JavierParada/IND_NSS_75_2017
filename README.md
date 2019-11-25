@@ -19,6 +19,13 @@ http://mospi.nic.in/unit-level-data-report-nss-75th-round-july-2017-june-2018-sc
 
 http://mospi.nic.in/unit-level-data-report-nss-75th-round-schedule-252july-2017-june-2018social-consumption-education
 
+## Introduction
+
+The National Sample Survey (NSS), set up by the Government of India in 1950 to collect socio-economic data employing scientific sampling methods, will start its seventy fifth round from 1st July 2017. The survey will continue up to 30th June 2018.
+
+NSS 75th round will cover the subjects ‘Household Consumer Expenditure’, ‘Household Social Consumption: Health’ and ‘Household Social Consumption: Education’. The last surveys on Household Consumer Expenditure was conducted in 68th round of NSS (July 2011 - June 2012) and Health and Education were conducted in 71st round of NSS (January – June 2014).
+
+
 ## SCHEDULE 25.2: HOUSEHOLD SOCIAL CONSUMPTION: EDUCATION
 
 ### Geographical coverage
