@@ -1,0 +1,273 @@
+country,year,variable,state,urban,gender,lit_
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Rural,female,53.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Rural,gap,-14.1
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Rural,male,67.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Rural,total,60.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Urban,female,73.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Urban,gap,-13.2
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Urban,male,86.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Urban,total,79.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Total,female,59.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Total,gap,-13.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Total,male,73.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Andhra Pradesh,Total,total,66.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Rural,female,79.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Rural,gap,-9.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Rural,male,89.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Rural,total,84.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Urban,female,91.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Urban,gap,-4.6999998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Urban,male,96.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Urban,total,93.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Total,female,81.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Total,gap,-8.8999996
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Total,male,90.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Assam,Total,total,85.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Rural,female,58.700001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Rural,gap,-19.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Rural,male,78.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Rural,total,69.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Urban,female,75.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Urban,gap,-13.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Urban,male,89.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Urban,total,83.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Total,female,60.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Total,gap,-19.200001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Total,male,79.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Bihar,Total,total,70.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Rural,female,65.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Rural,gap,-18.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Rural,male,84
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Rural,total,75
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Urban,female,82.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Urban,gap,-9.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Urban,male,91.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Urban,total,87.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Total,female,68.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Total,gap,-16.700001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Total,male,85.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Chhattisgarh,Total,total,77.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Urban,female,83.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Urban,gap,-10.7
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Urban,male,94.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Urban,total,89.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Total,female,82.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Total,gap,-11.3
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Total,male,93.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Delhi,Total,total,88.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Rural,female,68
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Rural,gap,-17.700001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Rural,male,85.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Rural,total,77
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Urban,female,86.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Urban,gap,-8.8999996
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Urban,male,95.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Urban,total,91.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Total,female,74.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Total,gap,-14.7
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Total,male,89.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Gujarat,Total,total,82.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Rural,female,66.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Rural,gap,-19.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Rural,male,85.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Rural,total,77
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Urban,female,81.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Urban,gap,-11.3
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Urban,male,92.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Urban,total,87.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Total,female,71.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Total,gap,-16.700001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Total,male,88
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Haryana,Total,total,80.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Rural,female,79.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Rural,gap,-13.1
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Rural,male,92.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Rural,total,85.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Urban,female,93
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Urban,gap,-4.8000002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Urban,male,97.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Urban,total,95.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Total,female,80.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Total,gap,-12.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Total,male,92.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Himachal Pradesh,Total,total,86.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Rural,female,66
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Rural,gap,-18.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Rural,male,84.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Rural,total,75.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Urban,female,75.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Urban,gap,-12.8
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Urban,male,88.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Urban,total,82.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Total,female,68
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Total,gap,-17.700001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Total,male,85.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jammu & Kashmir,Total,total,77.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Rural,female,61.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Rural,gap,-19.200001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Rural,male,80.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Rural,total,71.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Urban,female,78.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Urban,gap,-14
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Urban,male,92.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Urban,total,86.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Total,female,64.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Total,gap,-18.299999
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Total,male,83
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Jharkhand,Total,total,74.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Rural,female,63.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Rural,gap,-15.1
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Rural,male,78.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Rural,total,71
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Urban,female,83.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Urban,gap,-8.8000002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Urban,male,92.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Urban,total,88.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Total,female,70.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Total,gap,-12.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Total,male,83.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Karnataka,Total,total,77.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Rural,female,94.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Rural,gap,-2.5999999
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Rural,male,96.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Rural,total,95.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Urban,female,96.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Urban,gap,-1.8
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Urban,male,98.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Urban,total,97.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Total,female,95.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Total,gap,-2.2
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Total,male,97.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Kerala,Total,total,96.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Rural,female,61
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Rural,gap,-16.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Rural,male,77.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Rural,total,69.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Urban,female,79.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Urban,gap,-11.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Urban,male,91.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Urban,total,85.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Total,female,65.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Total,gap,-15.7
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Total,male,81.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Madhya Pradesh,Total,total,73.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Rural,female,71.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Rural,gap,-15.6
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Rural,male,87
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Rural,total,79.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Urban,female,87.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Urban,gap,-7.6999998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Urban,male,95.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Urban,total,91.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Total,female,78.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Total,gap,-12.3
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Total,male,90.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Maharashtra,Total,total,84.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Rural,female,67.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Rural,gap,-14.7
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Rural,male,82
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Rural,total,74.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Urban,female,85.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Urban,gap,-8.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Urban,male,94.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Urban,total,90.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Total,female,70.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Total,gap,-13.7
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Total,male,84
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Odisha,Total,total,77.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Rural,female,74
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Rural,gap,-11.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Rural,male,85.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Rural,total,80
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Urban,female,86.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Urban,gap,-7.0999999
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Urban,male,93.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Urban,total,90.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Total,female,78.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Total,gap,-10
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Total,male,88.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Punjab,Total,total,83.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Rural,female,52.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Rural,gap,-25
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Rural,male,77.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Rural,total,65.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Urban,female,74.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Urban,gap,-16.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Urban,male,91.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Urban,total,83.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Total,female,57.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Total,gap,-23.200001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Total,male,80.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Rajasthan,Total,total,69.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Rural,female,70.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Rural,gap,-13.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Rural,male,84.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Rural,total,77.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Urban,female,85.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Urban,gap,-6.4000001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Urban,male,92.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Urban,total,89
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Total,female,77.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Total,gap,-10
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Total,male,87.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Tamil Nadu,Total,total,82.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Rural,female,53.700001
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Rural,gap,-16.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Rural,male,70.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Rural,total,62.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Urban,female,79
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Urban,gap,-12.7
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Urban,male,91.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Urban,total,85.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Total,female,65.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Total,gap,-15.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Total,male,80.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Telangana,Total,total,72.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Rural,female,79
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Rural,gap,-14.1
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Rural,male,93.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Rural,total,86.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Urban,female,85.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Urban,gap,-11.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Urban,male,97.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Urban,total,92
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Total,female,80.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Total,gap,-13.6
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Total,male,94.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttarakhand,Total,total,87.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Rural,female,60.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Rural,gap,-20.1
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Rural,male,80.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Rural,total,70.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Urban,female,74.900002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Urban,gap,-11.9
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Urban,male,86.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Urban,total,81.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Total,female,63.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Total,gap,-18.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Total,male,81.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,Uttar Pradesh,Total,total,73
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Rural,female,72.599998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Rural,gap,-9.3999996
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Rural,male,82
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Rural,total,77.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Urban,female,84.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Urban,gap,-6.6999998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Urban,male,91.400002
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Urban,total,88.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Total,female,76.099998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Total,gap,-8.6999998
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Total,male,84.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,West Bengal,Total,total,80.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Rural,female,65
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Rural,gap,-16.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Rural,male,81.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Rural,total,73.5
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Urban,female,82.800003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Urban,gap,-9.3999996
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Urban,male,92.199997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Urban,total,87.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Total,female,70.300003
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Total,gap,-14.4
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Total,male,84.699997
+India,2017,Literacy rate (in per cent) among persons of age 7 years and above for different states,all-India,Total,total,77.699997
