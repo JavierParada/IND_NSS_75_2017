@@ -1,0 +1,12 @@
+name: india
+title: india
+username:
+account: javierparada
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1526542
+bundleId: 2618275
+url: https://javierparada.shinyapps.io/india/
+when: 1574751676.18999
+asMultiple: FALSE
+asStatic: FALSE

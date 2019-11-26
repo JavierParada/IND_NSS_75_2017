@@ -1,0 +1,13 @@
+name: India_Literacy
+title: India_Literacy
+username:
+account: javierparada
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1526498
+bundleId: 2618257
+url: https://javierparada.shinyapps.io/india_literacy/
+when: 1574751143.31718
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: backup.R|Book1.twb|do_literacy.do|Graph1.gph|Numbers.csv|Table2.1.csv|Table2.1.pdf|Table2.1.xlsx|tableau_literacy_long.csv

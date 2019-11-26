@@ -1,0 +1,12 @@
+name: IndiaLiteracy
+title: IndiaLiteracy
+username:
+account: javierparada
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1526489
+bundleId: 2618237
+url: https://javierparada.shinyapps.io/IndiaLiteracy/
+when: 1574750438.84244
+asMultiple: FALSE
+asStatic: FALSE
